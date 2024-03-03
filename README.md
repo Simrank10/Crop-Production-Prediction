@@ -1,5 +1,8 @@
 # Crop Production Prediction using Machine Learning
 
+![Image Description](https://www.google.com/url?sa=i&url=https%3A%2F%2Findianexpress.com%2Farticle%2Fcities%2Fahmedabad%2Fgujarat-monsoon-deficient-but-44-per-cent-kharif-crop-sown-is-water-intensive-paddy-and-cotton-5355561%2F&psig=AOvVaw3-ADTedt3pIjKD2VxgUpYd&ust=1709582195545000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODfvo7w2IQDFQAAAAAdAAAAABAL)
+
+
 ## Overview
 
 This project aims to predict crop production using machine learning techniques. The goal is to provide accurate predictions of crop yields based on the season it is grown, area used for cultivation and the State, district the crop is grown. By leveraging historical data and advanced predictive models, farmers can make informed decisions to optimize crop production and maximize yields based on the season and area.
